@@ -3,13 +3,13 @@
  * Plugin Name: Simple Banner
  * Plugin URI: https://github.com/rpetersen29/simple-banner
  * Description: Display a simple banner at the top of your website.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Ryan Petersen
  * Author URI: http://rpetersen29.github.io/
  * License: GPL2
  *
  * @package Simple Banner
- * @version 1.0.0
+ * @version 1.0.1
  * @author Ryan Petersen <rpetersen@arcwebtech.com>
  */
 
