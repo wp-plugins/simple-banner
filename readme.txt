@@ -1,10 +1,10 @@
 === Simple Banner ===
 Contributors: rpetersen29
 Donate link: 
-Tags: cta, banner, announcement, notification, bar, free, hello bar, hellobar
+Tags: cta, banner, banners, announcement, announcements, notification, bar, bars, free, hello bar, hellobar
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,9 @@ Yes.
 
 == Changelog ==
 
+= 1.0.2 =
+* Fixed banner for themes that don't already have jquery added.
+
 = 1.0.1 =
 * Fixed readme and added logo.
 
@@ -51,6 +54,9 @@ Yes.
 * First Version.
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+If your banner didn't work before, it probably does now.
 
 = 1.0.1 =
 Just updated some stuff for the readme. No functionality change.
