@@ -1,10 +1,10 @@
 === Simple Banner ===
 Contributors: rpetersen29
 Donate link: 
-Tags: cta, banner, announcement, bar
+Tags: cta, banner, banners, announcement, announcements, notification, bar, bars, free, hello bar, hellobar
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.0
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,13 +16,19 @@ This plugin makes it easy to display a simple announcement banner or bar at the 
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+= From your WordPress dashboard =
 
-e.g.
+1. Visit 'Plugins > Add New'
+2. Search for 'Simple Banner'
+3. Activate 'Simple Banner' from your Plugins page.
+4. Visit 'Simple Banner' in the sidebar to create a new banner.
 
-1. Upload the `simple-banner` folder to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Change the appearance and content of the banner through the 'Simple Banner' menu in Wordpress.
+= From WordPress.org =
+
+1. Download 'Simple Banner'.
+2. Upload the 'simple-banner' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
+3. Activate 'Simple Banner' from your Plugins page.
+4. Visit 'Simple Banner' in the sidebar to create a new banner.
 
 == Frequently Asked Questions ==
 
@@ -38,10 +44,28 @@ Yes.
 
 == Changelog ==
 
+= 1.0.3 =
+* Fix for themes with padding and margin applied to body.
+
+= 1.0.2 =
+* Fixed banner for themes that don't already have jquery added.
+
+= 1.0.1 =
+* Fixed readme and added logo.
+
 = 1.0.0 =
 * First Version.
 
 == Upgrade Notice ==
+
+= 1.0.3 =
+Additional fixes for more themes, specifically "Twenty *" themes by Wordpress.
+
+= 1.0.2 =
+If your banner didn't work before, it probably does now.
+
+= 1.0.1 =
+Just updated some stuff for the readme. No functionality change.
 
 = 1.0.0 =
 This is the first version.
