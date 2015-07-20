@@ -4,7 +4,7 @@ Donate link:
 Tags: cta, banner, banners, announcement, announcements, notification, bar, bars, free, hello bar, hellobar
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,9 @@ Yes.
 
 == Changelog ==
 
+= 1.0.3 =
+* Fix for themes with padding and margin applied to body.
+
 = 1.0.2 =
 * Fixed banner for themes that don't already have jquery added.
 
@@ -54,6 +57,9 @@ Yes.
 * First Version.
 
 == Upgrade Notice ==
+
+= 1.0.3 =
+Additional fixes for more themes, specifically "Twenty *" themes by Wordpress.
 
 = 1.0.2 =
 If your banner didn't work before, it probably does now.

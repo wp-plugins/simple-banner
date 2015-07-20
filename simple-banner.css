@@ -2,6 +2,8 @@
   width: 100%;
   background: #024985;
   text-align: center;
+  z-index: 200000;
+  position: relative;
   display: none; }
   @media only screen and (min-width: 901px) {
     .simple-banner {
