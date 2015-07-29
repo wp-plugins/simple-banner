@@ -40,7 +40,8 @@ Yes.
 
 1. This is the first screen shot.
 2. This is the second screen shot.
-2. This is the third screen shot.
+3. This is the third screen shot.
+4. This is the settings page... and the fourth screen shot.
 
 == Changelog ==
 
